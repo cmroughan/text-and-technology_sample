@@ -4,15 +4,15 @@ Data excerpted from http://papyri.info/ddbdp/p.oxy;2;294 .
 
 ## Metadata
 
-- Title: 	Letter from Alexandria
-- Publications: 	P.Oxy. 2 294 
-- Inv. Id: 	AM 4402
-- Support/Dimensions: 	Papyrus
-- Translations: 	Olsson, Papyrusbriefe (1925)
-- Material: 	Papyrus
-- Date: 	11. Dez. 22
-- Images: 	https://dpul.princeton.edu/papyri/catalog/wh246w64k
-- License: 	Creative Commons License © Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a Creative Commons Attribution 3.0 License.
+- **Title:** 	Letter from Alexandria
+- **Publications:** 	P.Oxy. 2 294 
+- **Inv. Id:** 	AM 4402
+- **Support/Dimensions:** 	Papyrus
+- **Translations:** 	Olsson, Papyrusbriefe (1925)
+- **Material:** 	Papyrus
+- **Date:** 	11. Dez. 22
+- **Images:** 	https://dpul.princeton.edu/papyri/catalog/wh246w64k
+- **License:** 	Creative Commons License © Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens. This work is licensed under a Creative Commons Attribution 3.0 License.
 
 
 ## HGV 20565 Translation (English)

@@ -2,9 +2,9 @@
 
 ## BM 47665
 
-Obv.
+### Obv.
 
-I
+#### I
 
 1. [....] the 20+xth, .... [....]
 2. [....] .... from the 22nd until the 25th, [....] 14 fin[gers ....]
@@ -22,18 +22,18 @@ I
 14. [....] the north wind blew. From the 26th
 15. [.... temple ob]late?
 
-II
+#### II
 
 1. .... [....]
 2. .... [....]
 3. the moon was [....] below [....]
 4. the moon was [....] be[low ....]
 
-Rev.
+### Rev.
 
-III broken;
+#### III broken;
 
-IV
+#### IV
 
 1. [....] .... [....]
 2. [....] (erasure) Capricorn? .... [....]
