@@ -7,7 +7,7 @@ type="text/css" href="TEI.css"?>
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>+ ᴛʜᴇ ʙᴀᴛʀᴀᴄʜᴏᴍʏᴏᴍᴀᴄʜɪᴀ ᴏғ <persName>ʜᴏᴍᴇʀ</persName> +</title>
+                <title>The Batrachomyomachia of <persName>Homer</persName></title>
             </titleStmt>
             <publicationStmt>
                 <p>Publication Information</p>
@@ -24,13 +24,13 @@ type="text/css" href="TEI.css"?>
             <p> 
                 Beginning on my first page, i call upon the chorus
                 from helicon to come down into my heart, for the songs sake
-                which just now i have set down <del rend="strikethrough"> in tablets upon my knees</del>,
+                which just now i have set down <del rend="strikethrough">in tablets upon my knees</del>,
                 the illimitable strife, the war-goading work of ares,
                 be<supplied reason="illegible">seeching them to bri</supplied>ng to the ears of all mankind
                 how the mice went among the frogs, proudly in their war-strength, 
                 emulating the deeds of those earth-born men, the giants,
                 as the story among mortals once <del rend="strikethrough">had it; and in this way it began.</del>
-                once a <unclear reason="illegible"> mouse </unclear>, thirsty from escaping the close danger
+                once a <unclear reason="illegible">mouse</unclear>, thirsty from escaping the close danger
                 of a weasel, plunged his greedy muzzle in a mill-pond,
                 delighting in the honey-sweet water; but a much-renowned pond-lover saw him, <hi rend="underline">and spoke to him as follows:</hi>
                 stranger, who are you? whence come you to this shore? who begat you? tell me the whole truth, nor let me catch you in falsehood.
