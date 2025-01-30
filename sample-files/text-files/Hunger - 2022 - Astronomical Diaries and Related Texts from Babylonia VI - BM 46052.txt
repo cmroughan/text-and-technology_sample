@@ -2,7 +2,8 @@ No. -110
 B: BM 46052
 ´Flake´
 
-1´ [....] .... [....]
+This line has been added.
+
 2´ [....] it thundered once [....]
 3´ [....] Mercury’s last appearance in the west in Gemini; clouds? [....]
 4´ [.... Night] of the 14th, beginning of the night, the moon was ½ cubit above α Scorpii, the moon being [....]
@@ -16,7 +17,6 @@ being 1½ cubits low to the south [....]
 of the night, the moon was [....]
 10´ [....] .... the moon was 2½ cubits behind α Tauri, the moon being 4 cubits high to the north [....]
 11´ [....] .... clouds? crossed the sky. The 29th, solar eclipse [which was omitted ....]
-12´ [....] .... [....]
 (space)
 13´ [....] (erasure)
 (space)
@@ -27,4 +27,3 @@ of the night, the moon was [....]
 18´ [....] 1½ cubits [in] front? of ϑ Ophiuchi [....]
 19´ [....] (ideal) first appearance on the 12th. Night of the 14th, [....:] 11° 30´? [....]
 20´ [....] δ Capricorni .... [....]
-21´ [....] .... [....]

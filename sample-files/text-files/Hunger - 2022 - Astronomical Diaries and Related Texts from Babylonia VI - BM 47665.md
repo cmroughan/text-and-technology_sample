@@ -2,6 +2,8 @@
 
 ## BM 47665
 
+*This line has been added.*
+
 Obv.
 
 I
@@ -20,14 +22,7 @@ I
 12. [.... Jupiter], which had set, was not visible.
 13. [....] .... Month III, (the 1st of which was identical with) the 30th (of the preceding month), the moon became visible
 14. [....] the north wind blew. From the 26th
-15. [.... temple ob]late?
-
-II
-
-1. .... [....]
-2. .... [....]
-3. the moon was [....] below [....]
-4. the moon was [....] be[low ....]
+15. [.... temple ob]late?]
 
 Rev.
 

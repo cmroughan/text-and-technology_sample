@@ -8,6 +8,7 @@
       <fileDesc>
          <titleStmt>
             <title>p.oxy.9.1214</title>
+            <!-- This line has been added. -->
          </titleStmt>
          <publicationStmt>
             <authority>Duke Collaboratory for Classics Computing (DC3)</authority>
@@ -26,7 +27,6 @@
       </fileDesc>
       <profileDesc>
          <langUsage>
-            <language ident="en">English</language>
             <language ident="grc">Greek</language>
          </langUsage>
       </profileDesc>
